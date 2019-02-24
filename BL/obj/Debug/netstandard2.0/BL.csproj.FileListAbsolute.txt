@@ -1,0 +1,14 @@
+D:\PROEJCT\Nhóm\ElectricityManager\Group2_Electricity_Manage\BL\bin\Debug\netstandard2.0\BL.deps.json
+D:\PROEJCT\Nhóm\ElectricityManager\Group2_Electricity_Manage\BL\bin\Debug\netstandard2.0\BL.dll
+D:\PROEJCT\Nhóm\ElectricityManager\Group2_Electricity_Manage\BL\bin\Debug\netstandard2.0\BL.pdb
+D:\PROEJCT\Nhóm\ElectricityManager\Group2_Electricity_Manage\BL\bin\Debug\netstandard2.0\DAL.dll
+D:\PROEJCT\Nhóm\ElectricityManager\Group2_Electricity_Manage\BL\bin\Debug\netstandard2.0\Persistence.dll
+D:\PROEJCT\Nhóm\ElectricityManager\Group2_Electricity_Manage\BL\bin\Debug\netstandard2.0\DAL.pdb
+D:\PROEJCT\Nhóm\ElectricityManager\Group2_Electricity_Manage\BL\bin\Debug\netstandard2.0\Persistence.pdb
+D:\PROEJCT\Nhóm\ElectricityManager\Group2_Electricity_Manage\BL\obj\Debug\netstandard2.0\BL.csprojAssemblyReference.cache
+D:\PROEJCT\Nhóm\ElectricityManager\Group2_Electricity_Manage\BL\obj\Debug\netstandard2.0\BL.csproj.CoreCompileInputs.cache
+D:\PROEJCT\Nhóm\ElectricityManager\Group2_Electricity_Manage\BL\obj\Debug\netstandard2.0\BL.AssemblyInfoInputs.cache
+D:\PROEJCT\Nhóm\ElectricityManager\Group2_Electricity_Manage\BL\obj\Debug\netstandard2.0\BL.AssemblyInfo.cs
+D:\PROEJCT\Nhóm\ElectricityManager\Group2_Electricity_Manage\BL\obj\Debug\netstandard2.0\BL.csproj.CopyComplete
+D:\PROEJCT\Nhóm\ElectricityManager\Group2_Electricity_Manage\BL\obj\Debug\netstandard2.0\BL.dll
+D:\PROEJCT\Nhóm\ElectricityManager\Group2_Electricity_Manage\BL\obj\Debug\netstandard2.0\BL.pdb

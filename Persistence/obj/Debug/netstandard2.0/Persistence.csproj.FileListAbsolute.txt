@@ -1,0 +1,9 @@
+D:\PROEJCT\Nhóm\ElectricityManager\Group2_Electricity_Manage\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+D:\PROEJCT\Nhóm\ElectricityManager\Group2_Electricity_Manage\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+D:\PROEJCT\Nhóm\ElectricityManager\Group2_Electricity_Manage\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+D:\PROEJCT\Nhóm\ElectricityManager\Group2_Electricity_Manage\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+D:\PROEJCT\Nhóm\ElectricityManager\Group2_Electricity_Manage\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CoreCompileInputs.cache
+D:\PROEJCT\Nhóm\ElectricityManager\Group2_Electricity_Manage\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+D:\PROEJCT\Nhóm\ElectricityManager\Group2_Electricity_Manage\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+D:\PROEJCT\Nhóm\ElectricityManager\Group2_Electricity_Manage\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+D:\PROEJCT\Nhóm\ElectricityManager\Group2_Electricity_Manage\Persistence\obj\Debug\netstandard2.0\Persistence.pdb
